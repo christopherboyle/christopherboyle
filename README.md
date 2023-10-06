@@ -11,12 +11,12 @@ If you would like to learn more, <a href="https://www.linkedin.com/in/christophe
   <td width="50%">
       <img src="https://raw.githubusercontent.com/christopherboyle/christopherboyle/main/images/hyenas.jpg" alt="Hyenas"><br/>
       <b>Hyenas</b><br/>
-      Pipeline Technical Artist.
+      Pipeline Technical Artist
   </td>
   <td width="50%">
       <img src="https://raw.githubusercontent.com/christopherboyle/christopherboyle/main/images/pony.jpg" alt="My Little Pony: A New Generation"><br/>
       <b>My Little Pony: A New Generation</b><br/>
-      Pipeline and CFX Technical Director
+      Pipeline Technical Director (CFX)
   </td>
 </tr>
     

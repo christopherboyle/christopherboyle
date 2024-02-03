@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, my name is Christopher Boyle and I'm currently a Pipeline Technical Artist at Creative Assembly. My past experience includes Pipeline and CFX in Feature Animation, as well as various engineering roles in the Healthcare industry. 
+Hi, my name is Christopher Boyle and I'm currently a Senior Technical Artist at EA Maxis. My past experience includes Pipeline and CFX in Feature Animation, as well as various engineering roles in the Healthcare industry. 
 
 If you would like to learn more, <a href="https://www.linkedin.com/in/christopher-boyle-66505459">please visit my LinkedIn</a>.
 
